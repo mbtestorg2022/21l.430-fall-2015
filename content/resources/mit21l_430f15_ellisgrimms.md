@@ -4,6 +4,7 @@ description: 'Lecture notes for sessions 1-4: Ellis and the Grimms; German natio
   folk tradition; oral and written culture.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/598a9cbe2d2ba3c774568ca8617eb30d_MIT21L_430F15_EllisGrimms.pdf
 file_type: application/pdf
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: MIT21L_430F15_EllisGrimms
 uid: 598a9cbe-2d2b-a3c7-7456-8ca8617eb30d

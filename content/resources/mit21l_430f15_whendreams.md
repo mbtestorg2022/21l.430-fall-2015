@@ -5,6 +5,7 @@ description: 'This is a file that contains information regarding popular culture
   fairy tales and their tradition.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/c32daacb455a9aab4a963685283ae5d7_MIT21L_430F15_WhenDreams.pdf
 file_type: application/pdf
+parent_uid: 9812cfa4-2133-0751-4406-abd5881f58d1
 resourcetype: Document
 title: '21L.430F15 Jack Zipes, When Dreams Came True: Classical Fairy Tales and Their
   Tradition'
